@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/rt-karthi">
-    <img src="https://skillicons.dev/icons?i=androidstudio,figma,git,github,java,kotlin,gradle,firebase,mysql,sqlite,postman,stackoverflow,idea,ktor,maven" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,figma,git,github,java,kotlin,gradle,firebase,sqlite,postman,stackoverflow,idea,ktor,maven" />
     <img width ="32px" src ="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg"/>
   </a>
 </div>
@@ -57,9 +57,9 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="hashnode" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/karthi-rt" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://twitter.com/karthi__rt" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="hashnode" height="50" width="50" /></a>
   
 </p>
 
